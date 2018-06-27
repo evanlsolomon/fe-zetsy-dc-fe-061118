@@ -24,4 +24,5 @@ body {
 h1 {
   font-size:5em;
   font-family: 'Baskerville', serif;
+  padding-bottom: 0;
 }
