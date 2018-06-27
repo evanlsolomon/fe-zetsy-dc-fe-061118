@@ -46,6 +46,10 @@ p  {
 
 /* Section Styles */
 
+img {
+	border: 5px rgb(152,173,166) solid;
+}
+
 div a {
 	color: rgb(152,173,166);
 	text-decoration: none;
