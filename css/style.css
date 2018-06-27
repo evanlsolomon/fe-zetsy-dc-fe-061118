@@ -22,5 +22,6 @@ body {
 
 /* Write all remaining styles here */
 h1 {
-  
+  font-size:24 px;
+  font:Baskerville;
 }
