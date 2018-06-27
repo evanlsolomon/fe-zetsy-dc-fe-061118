@@ -23,7 +23,7 @@ body {
 /* Write all remaining styles here */
 h1 {
   font-size:5em;
-  padding-bot
+  padding-bottom: 10px;
   font-family: 'Baskerville', serif;
   border-bottom: 1px solid #ccc;
 }
